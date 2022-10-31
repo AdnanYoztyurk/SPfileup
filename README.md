@@ -23,6 +23,7 @@ I spend some little time to see how we can manage SharePoint access and file man
 
 # Attention!: 
 #1 Please make sure that you have create your App password in "https://account.activedirectory.windowsazure.com/AppPasswords.aspx"
+
 #2 Please ensure that you adjusted the custom variables in the script for your personal needs before running the job.
 
 # Author:
