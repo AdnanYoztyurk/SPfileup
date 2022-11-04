@@ -10,7 +10,7 @@ SharePoint is a reliable storage for documentation. One can need to store Python
 
 I spend some little time to see how we can manage SharePoint access and file management. So here is the Python script I created and worked out for me. 
 
-# Arguments:
+# Arguments
 **folder**: The path of the destination folder e.g., "sites/KOD"
 
 **Username**: Please enter your corporate Microsoft email address
@@ -21,7 +21,7 @@ I spend some little time to see how we can manage SharePoint access and file man
 
 **dir_ext**: Please address your important files using path and extension info e.g., "C:/Users/YoztyurkA/Projects/*.ppt"
 
-# Attention!: 
+# Attention!
 #1 Please make sure that you have create your App password in "https://account.activedirectory.windowsazure.com/AppPasswords.aspx"
 
 #2 Please ensure that you adjusted the custom variables in the script for your personal needs before running the job.
